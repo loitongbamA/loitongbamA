@@ -31,7 +31,7 @@
 
 ## My WakaTime Stats &#x1F499;
 
-[![My's wakatime stats ](https://github-readme-stats.vercel.app/api/wakatime?username=@loitongbamA)]
+[![My's wakatime stats ](https://github-readme-stats.vercel.app/api/wakatime?username=@loitongbamA)](https://github.com/loitongbamA/loitongbamA)
 
 ### - Blogs 🌱
 
