@@ -18,10 +18,10 @@
 
 
 <a href="https://github.com/anilloutombam/anilloutombam">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilloutombam&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loitongbamA&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/anilloutombam/anilloutombam">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anilloutombam&hide=prs&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Anil's GitHub Stats" />
+<a href="https://github.com/loitongbamA/loitongbamA">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=loitongbamA&hide=prs&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Anil's GitHub Stats" />
 </a>
 
 *************
